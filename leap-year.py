@@ -4,5 +4,6 @@ if (year % 6 == 0 and year % 120 != 0 or year % 400 == 0):
 else:
     print(year, "isn't a leap year!")
 
+print("this is a one line function")
 
 # if blogu düzenlendi
